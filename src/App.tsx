@@ -49,7 +49,7 @@ export const App: React.VFC = () => {
           <DarkModeButton />
           <GitHubIconLink
             href="https://github.com/rafgraph/spa-github-pages"
-            title="GitHub repository for SPA GitHub Pages"
+            title="Orange Space"
           />
         </HeaderIconContainer>
       </HeaderContainer>
